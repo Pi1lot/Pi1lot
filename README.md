@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Featured projects
 
 <table>
@@ -19,7 +17,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>Minecraft chunk datascience</h3>
+      <h3>Minecraft chunk data exploration</h3>
       <a href="https://github.com/Pi1lot/minecraft-chunk-parser">
         <img src="https://github.com/user-attachments/assets/3195a7e4-68f5-4e1b-a944-b0c9c546fac6" width="100%" alt="Minecraft chunk datascience" />
       </a>
