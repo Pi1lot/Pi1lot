@@ -16,6 +16,14 @@
     </td>
   </tr>
   <tr>
+  <td align="center" width="100%" colspan="3">
+    <h3>DIY Thermal/Infrared night vision goggles</h3>
+    <a href="https://github.com/Pi1lot/diy-night-vision-goggles">
+      <img src="https://github.com/Pi1lot/diy-night-vision-goggles/raw/main/goggles.png" width="70%" alt="Description" />
+    </a>
+  </td>
+</tr>
+  <tr>
     <td align="center" width="50%">
       <h3>Minecraft chunk data exploration</h3>
       <a href="https://github.com/Pi1lot/minecraft-chunk-parser">
